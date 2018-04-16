@@ -27,7 +27,11 @@ def power(x, y):
         z = z*x
     return z
         
-
+def printhello(boolean):
+  if boolean == True:
+    print('Hello')
+  else:
+    print('Goodbye')
 
 print("ByeBye")
 
