@@ -26,6 +26,9 @@ def power(x, y):
     for i in range(1, y):
         z = z*x
     return z
+
+def printHi():
+  print("Hi")
         
 
 
