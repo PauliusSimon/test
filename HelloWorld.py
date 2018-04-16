@@ -74,3 +74,15 @@ elif choice == '5':
    
 else:
    print("Invalid input")
+
+
+
+############### add functionality simon
+def generatelonglistof1s(n):
+  list = []
+  for i in range(n):
+    list.append(1)
+
+
+
+
