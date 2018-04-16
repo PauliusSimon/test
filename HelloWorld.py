@@ -36,10 +36,9 @@ def printhello(boolean):
   else:
     print('Goodbye')
 
-#ThugLyfe
-print('boop')
-
-print("ByeBye")
+def FancyCalc():
+  a = 2+2+2+2+2
+  print(a)
 
 
 print("----------- HelloWord - QUICK MATHS SOFTWARE -----------")
