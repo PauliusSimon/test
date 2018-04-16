@@ -36,10 +36,6 @@ def printhello(boolean):
   else:
     print('Goodbye')
 
-#ThugLyfe
-print('boop')
-
-print("ByeBye")
 
 
 print("----------- HelloWord - QUICK MATHS SOFTWARE -----------")
